@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### I am a Computer Science student and I like building robots 🤖 .
+
+#### My GitHub repositories are mostly related to robotics-related topics.
 <!--
 **logeshg2/logeshg2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
