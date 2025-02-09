@@ -3,6 +3,8 @@
 ### I am a Computer Science student and I like building robots 🤖 .
 
 #### My GitHub repositories are mostly related to robotics-related topics.
+
+![](https://komarev.com/ghpvc/?username=logeshg2&style=pixel)
 <!--
 **logeshg2/logeshg2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
