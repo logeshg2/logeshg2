@@ -2,7 +2,7 @@
 
 ### I am a Computer Science student and I like building robots 🤖 .
 
-#### My GitHub repositories are mostly related to robotics-related topics.
+#### I am working on making robot manipulators smarter.
 
 <!--![](https://komarev.com/ghpvc/?username=logeshg2&style=flat)-->
 <!--
