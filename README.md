@@ -2,7 +2,7 @@
 
 ### I am a Computer Science student and I like building robots 🤖 .
 
-#### I am working on making robot manipulators smarter.
+#### Working on making robot manipulators smarter.
 
 <!--![](https://komarev.com/ghpvc/?username=logeshg2&style=flat)-->
 <!--
