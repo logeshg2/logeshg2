@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am a Computer Science student and I like building robots 🤖 .
+### I like building robots 🤖.
 
 #### Working on making robot manipulators smarter.
 
